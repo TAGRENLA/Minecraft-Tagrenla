@@ -18,7 +18,7 @@
 edf-remastered-4.3.jar
 framework-forge-1.20.1-0.7.11.jar
 MaFgLib-0.1.13-mc1.20.1[灵魂出窍前置].jar
-PuzzlesLib-v8.1.24-1.20.1-Forge[附魔灌注台前置].jar
+PuzzlesLib-v8.1.25-1.20.1-Forge[附魔灌注台前置].jar
 Tweakerge-0.1.5-mc1.20.1.jar
 [JEI物品管理器] jei-1.20.1-forge-15.20.0.105.jar
 [Xaero的世界地图] XaerosWorldMap_1.39.0_Forge_1.20.jar
@@ -30,11 +30,12 @@ Tweakerge-0.1.5-mc1.20.1.jar
 [光影前置]embeddium-0.3.31+mc1.20.1.jar
 [光影模组]oculus-mc1.20.1-1.7.0.jar
 [动态FPS] dynamic-fps-3.7.6+minecraft-1.20.0-forge.jar
+[孤独HUD] BoccHUD-0.1.7-mc1.20.1.jar
 [实体渲染机制优化] entityculling-forge-1.7.1-mc1.20.1.jar
 [怪物增强] improvedmobs-1.20.1-1.13.0-forge.jar
 [搬运] carryon-forge-1.20.1-2.1.2.7.jar
 [星光重写底层灯光代码] starlight-1.1.2+forge.1cda73c.jar
-[更多动画] notenoughanimations-forge-1.7.6-mc1.20.1.jar
+[更多动画] notenoughanimations-forge-1.8.1-mc1.20.1.jar
 [更好的进度] BetterAdvancements-1.20.1-NeoForge-0.4.2.10.jar
 [村民物品化／简单村民] easy-villagers-forge-1.20.1-1.1.23.jar
 [模组目录] catalogue-forge-1.20.1-1.8.0.jar
@@ -42,9 +43,9 @@ Tweakerge-0.1.5-mc1.20.1.jar
 [物品物理掉落] ItemPhysicLite_FORGE_v1.6.5_mc1.20.1.jar
 [物理声效重制版] sound-physics-remastered-forge-1.20.1-1.4.5.jar
 [玉 🔍信息显示] Jade-1.20.1-Forge-11.12.2.jar
-[精妙核心] sophisticatedcore-1.20.1-0.6.35.733.jar
-[精妙背包] sophisticatedbackpacks-1.20.1-3.20.11.1121.jar
-[聊天头像] chat_heads-0.13.4-forge-1.20.jar
+[精妙核心] sophisticatedcore-1.20.1-0.7.3.764.jar
+[精妙背包] sophisticatedbackpacks-1.20.1-3.20.13.1131.jar
+[聊天头像] chat_heads-0.13.6-forge-1.20.jar
 [脚步声Forge版] PresenceFootsteps-1.20.1-1.9.1-beta.1.jar
 [腐肉换皮革] JRFTL-1.20.1-1.6.0.jar
 [自定义局域网联机] lanserverproperties-1.11.1-forge.jar
@@ -61,7 +62,7 @@ Tweakerge-0.1.5-mc1.20.1.jar
 【尼夫的蜘蛛】nyfsspiders-forge-1.20.1-2.1.1.jar
 【怪物增强前置】tenshilib-1.20.1-1.7.6-forge.jar
 【村民交易切换】trade-cycling-forge-1.20.1-1.0.15.jar
-【物理掉落前置】CreativeCore_FORGE_v2.12.21_mc1.20.1.jar
+【物理掉落前置】CreativeCore_FORGE_v2.12.22_mc1.20.1.jar
 【突变体】Mutants Buff 1.5.3 - 1.20.1.jar
 【键位冲突显示】Searchables-forge-1.20.1-1.0.3.jar
 【附魔描述前值班】Bookshelf-Forge-1.20.1-20.2.13.jar
